@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&display=swap');
+
+.navbar{
+    background-color: #092e46;
+    margin: 0;
+    height:30rem;
+    padding: 0;
+}
+.nav-bar{
+    text-align: center;
+}
+.logo-box{
+    padding: 5rem 0;
+}
+.primary-heading{
+    font-family: 'Bigelow Rules', cursive;
+    font-size: 7.2rem;
+    text-align: center;
+    color: #0ccac4;
+}
+.search-bar{
+    height: 5.2rem;
+    width: 70rem;
+    outline: none;
+}
+.search-bar::placeholder{
+   text-align: justify;
+    font-size: 2.4rem;
+}

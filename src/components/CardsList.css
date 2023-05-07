@@ -1,0 +1,6 @@
+.card-list{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 2rem 11rem;
+    justify-content: space-evenly;
+}

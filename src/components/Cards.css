@@ -1,0 +1,29 @@
+.cards{
+    border: 1px solid #888;
+    height: 40rem;
+    width: 40rem;
+    margin: 2rem 3rem;
+    background-color: #95dada;
+    box-shadow: 0 0 1.5rem #6e6e6e;
+    cursor: pointer;
+}
+.img-box{
+    margin: 0 auto;
+}
+.img-size{
+    height: 25rem;
+    width: 30rem;
+    justify-self: center;
+    padding: 0 4rem;
+}
+.text-box{
+    text-align: center;
+}
+.secondary-heading{
+    font-size: 3.6rem;
+}
+.card-text,
+.card-text-two{
+    font-size: 2.2rem;
+    color: #333;
+}
