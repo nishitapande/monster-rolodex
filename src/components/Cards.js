@@ -6,7 +6,7 @@ function Cards(props) {
     <div className="cards">
       <div className="img-box">
         <img
-          src="https://robohash.org/${props.id}?set=set2"
+          src=`https://robohash.org/${props.id}?set=set2`
           className="img-size"
         />
       </div>
